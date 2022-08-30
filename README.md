@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100milliongold)](https://github.com/100milliongold/github-readme-stats)
+
+<a href="https://opgc.me/#/users/100milliongold" target="_blank"><img src="https://api.opgc.me/githubs/users/100milliongold/tag/?theme=basic" /></a>
